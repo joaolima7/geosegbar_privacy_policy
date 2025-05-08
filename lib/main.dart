@@ -131,7 +131,7 @@ class SectionBody extends StatelessWidget {
   Widget build(BuildContext context) {
     return Text(
       text,
-      style: const TextStyle(fontSize: 16, height: 1.5),
+      style: const TextStyle(fontSize: 16, height: 1.51),
       textAlign: TextAlign.justify,
     );
   }
